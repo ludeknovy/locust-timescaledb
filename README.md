@@ -1,1 +1,1 @@
-# locust-timescaledb
+# TimescaleDB setup for Locust
